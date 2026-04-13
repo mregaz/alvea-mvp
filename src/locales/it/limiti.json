@@ -1,0 +1,23 @@
+{
+  "title": "Limiti del servizio",
+  "intro": "Alvea è uno strumento informativo per genitori. È importante capire cosa fa e cosa non fa.",
+  "doesDo": {
+    "title": "Cosa fa Alvea",
+    "item1": "Ti aiuta a capire se un sintomo comune richiede attenzione",
+    "item2": "Ti suggerisce il passo successivo più appropriato",
+    "item3": "Si basa su linee guida pediatriche svizzere ed europee",
+    "item4": "È disponibile in italiano, tedesco e francese"
+  },
+  "doesNotDo": {
+    "title": "Cosa non fa Alvea",
+    "item1": "Non fornisce diagnosi mediche",
+    "item2": "Non sostituisce il giudizio del tuo pediatra",
+    "item3": "Non è adatto alle emergenze (usa il 144)",
+    "item4": "Non tiene conto della storia clinica del tuo bambino",
+    "item5": "Non è adatto per bambini con patologie croniche complesse"
+  },
+  "responsibility": {
+    "title": "Responsabilità",
+    "body": "Le indicazioni di Alvea hanno carattere puramente informativo e orientativo. Alvea non si assume responsabilità per decisioni mediche prese sulla base di questi contenuti. Consulta sempre un professionista sanitario per qualsiasi dubbio sulla salute del tuo bambino."
+  }
+}

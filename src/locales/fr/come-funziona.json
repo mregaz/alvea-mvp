@@ -1,0 +1,23 @@
+{
+  "title": "[STUB] Come funziona",
+  "intro": "[STUB] Alvea ti aiuta a capire i sintomi del tuo bambino in tre semplici passi.",
+  "steps": {
+    "step1": {
+      "title": "[STUB] Scegli un sintomo",
+      "body": "[STUB] Seleziona il sintomo che osservi nel tuo bambino. Alvea copre i sintomi più comuni in età pediatrica."
+    },
+    "step2": {
+      "title": "[STUB] Rispondi a qualche domanda",
+      "body": "[STUB] Ti poniamo domande mirate — età del bambino, intensità, durata, sintomi associati. Niente di complicato."
+    },
+    "step3": {
+      "title": "[STUB] Ricevi indicazioni chiare",
+      "body": "[STUB] Ottieni un'indicazione su cosa fare: osservare a casa, contattare il pediatra, o recarti al pronto soccorso."
+    }
+  },
+  "notADiagnosis": {
+    "title": "[STUB] Alvea non fa diagnosi",
+    "body": "[STUB] Le indicazioni di Alvea si basano su linee guida pediatriche generali. Non sostituiscono la valutazione del tuo medico. In caso di dubbio, chiama sempre il tuo pediatra."
+  },
+  "cta": "[STUB] Inizia ora"
+}

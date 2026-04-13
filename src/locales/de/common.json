@@ -1,0 +1,28 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "howItWorks": "So funktioniert es",
+    "symptoms": "Symptome",
+    "urgentHelp": "Notfallhilfe"
+  },
+  "footer": {
+    "limits": "Grenzen des Dienstes",
+    "privacy": "Datenschutz",
+    "tagline": "Alvea ersetzt nicht deinen Kinderarzt."
+  },
+  "disclaimer": {
+    "short": "Dieses Tool stellt keine medizinische Diagnose.",
+    "long": "Alvea ist ein Informationswerkzeug für Eltern. Es stellt keine Diagnosen, ersetzt keine ärztliche Untersuchung und darf nicht in Notfällen verwendet werden. Im Zweifelsfall wende dich immer an deinen Kinderarzt oder ruf 144 an.",
+    "flow": "Alvea stellt keine Diagnosen und ersetzt nicht den Kinderarzt."
+  },
+  "cta": {
+    "start": "Starten",
+    "continue": "Weiter",
+    "back": "Zurück",
+    "restart": "Neu starten"
+  },
+  "urgentHelp": {
+    "callEmergency": "144 anrufen",
+    "callPediatrician": "Kinderarzt kontaktieren"
+  }
+}

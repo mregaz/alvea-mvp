@@ -1,0 +1,23 @@
+{
+  "title": "Aiuto urgente",
+  "intro": "Se il tuo bambino è in pericolo, non usare Alvea. Chiama subito il numero di emergenza.",
+  "emergency": {
+    "title": "Emergenza — chiama il 144",
+    "description": "Chiama il 144 immediatamente se il tuo bambino:",
+    "sign1": "Non respira o ha difficoltà respiratorie gravi",
+    "sign2": "È privo di sensi o non risponde",
+    "sign3": "Ha convulsioni in corso",
+    "sign4": "Ha un'emorragia che non si ferma",
+    "sign5": "Ha ingerito una sostanza tossica",
+    "sign6": "Ha subito un trauma grave (caduta, incidente)"
+  },
+  "pediatrician": {
+    "title": "Contatta il tuo pediatra",
+    "description": "Chiama il tuo pediatra oggi stesso se:",
+    "sign1": "Il bambino ha meno di 3 mesi e ha febbre",
+    "sign2": "La febbre dura da più di 3 giorni",
+    "sign3": "Il bambino sembra molto sofferente o insolito",
+    "sign4": "Hai un dubbio che non riesci a risolvere"
+  },
+  "note": "In Svizzera puoi anche chiamare la Helpline del medico di turno al 0900 57 67 47 (a pagamento)."
+}

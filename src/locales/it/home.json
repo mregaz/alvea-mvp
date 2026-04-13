@@ -1,0 +1,95 @@
+{
+  "hero": {
+    "title": "Capisci quando preoccuparti per i sintomi più comuni nei bambini.",
+    "subtitle": "Alvea aiuta i genitori a capire quali segnali osservare e quale passo fare dopo: monitorare, chiedere consiglio o agire subito.",
+    "ctaPrimary": "Inizia ora",
+    "ctaSecondary": "Come funziona",
+    "trustNote": "Supporto orientativo per genitori. Alvea non fornisce diagnosi e non sostituisce il pediatra o i servizi di urgenza."
+  },
+  "problem": {
+    "title": "Ogni genitore lo conosce.",
+    "body": "Il bambino ha la febbre alle undici di sera. Non sai se aspettare, chiamare il pediatra o andare al pronto soccorso. Cerchi online e trovi solo cose che ti spaventano. Alvea è stato pensato per questo momento."
+  },
+  "howItWorks": {
+    "title": "Come funziona",
+    "step1": {
+      "label": "Scegli il sintomo",
+      "detail": "Seleziona quello che stai osservando nel tuo bambino."
+    },
+    "step2": {
+      "label": "Rispondi a qualche domanda",
+      "detail": "Domande semplici su età, intensità e durata. Meno di due minuti."
+    },
+    "step3": {
+      "label": "Ricevi un'indicazione chiara",
+      "detail": "Verde, giallo o rosso: cosa osservare, quando chiamare, quando agire subito."
+    }
+  },
+  "symptoms": {
+    "title": "Sintomi disponibili",
+    "comingSoon": "In arrivo",
+    "fever": {
+      "label": "Febbre",
+      "description": "Temperatura elevata"
+    },
+    "cough": {
+      "label": "Tosse",
+      "description": "Tosse secca o produttiva"
+    },
+    "vomiting": {
+      "label": "Vomito o diarrea",
+      "description": "Disturbi gastrointestinali"
+    },
+    "throat": {
+      "label": "Mal di gola",
+      "description": "Dolore o difficoltà a deglutire"
+    },
+    "rash": {
+      "label": "Rash cutaneo",
+      "description": "Macchie o eruzioni sulla pelle"
+    },
+    "earache": {
+      "label": "Dolore all'orecchio",
+      "description": "Dolore o fastidio auricolare"
+    },
+    "startLabel": "Inizia"
+  },
+  "trafficLight": {
+    "title": "Tre livelli di risposta",
+    "subtitle": "Ogni flusso termina con un'indicazione in tre colori.",
+    "green": {
+      "label": "Verde",
+      "description": "Puoi gestire a casa. Ti diciamo cosa monitorare."
+    },
+    "yellow": {
+      "label": "Giallo",
+      "description": "È opportuno sentire il pediatra nelle prossime ore."
+    },
+    "red": {
+      "label": "Rosso",
+      "description": "Richiede attenzione immediata. Vai al pronto soccorso o chiama il 144."
+    }
+  },
+  "urgentHelp": {
+    "title": "In caso di emergenza",
+    "body": "Alvea non è adatto alle emergenze. Se il tuo bambino non respira, ha convulsioni o non risponde, chiama subito il 144.",
+    "cta": "144 — Emergenze Svizzera",
+    "secondary": "Vedi tutti i segnali di emergenza"
+  },
+  "whatItIs": {
+    "title": "Alvea non è un medico.",
+    "isTitle": "È uno strumento orientativo",
+    "is1": "Basato su linee guida pediatriche svizzere ed europee",
+    "is2": "Aggiornato e revisionato da professionisti sanitari",
+    "is3": "Pensato per situazioni comuni, non per emergenze",
+    "isNotTitle": "Non è una diagnosi",
+    "isNot1": "Non conosce la storia clinica del tuo bambino",
+    "isNot2": "Non sostituisce la visita dal pediatra",
+    "isNot3": "Non deve essere usato in situazioni d'urgenza"
+  },
+  "finalCta": {
+    "title": "Pronto a iniziare?",
+    "body": "Scegli un sintomo e ricevi un'indicazione chiara in meno di due minuti.",
+    "cta": "Scegli un sintomo"
+  }
+}

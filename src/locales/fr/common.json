@@ -1,0 +1,28 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "howItWorks": "Comment ça marche",
+    "symptoms": "Symptômes",
+    "urgentHelp": "Aide urgente"
+  },
+  "footer": {
+    "limits": "Limites du service",
+    "privacy": "Confidentialité",
+    "tagline": "Alvea ne remplace pas votre pédiatre."
+  },
+  "disclaimer": {
+    "short": "Cet outil ne fournit pas de diagnostic médical.",
+    "long": "Alvea est un outil d'information pour les parents. Il ne fournit pas de diagnostic, ne remplace pas une consultation médicale et ne doit pas être utilisé en cas d'urgence. En cas de doute, contactez toujours votre pédiatre ou appelez le 144.",
+    "flow": "Alvea ne fournit pas de diagnostic et ne remplace pas le pédiatre."
+  },
+  "cta": {
+    "start": "Commencer",
+    "continue": "Continuer",
+    "back": "Retour",
+    "restart": "Recommencer"
+  },
+  "urgentHelp": {
+    "callEmergency": "Appeler le 144",
+    "callPediatrician": "Contacter le pédiatre"
+  }
+}

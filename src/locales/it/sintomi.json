@@ -1,0 +1,39 @@
+{
+  "title": "Cosa sta succedendo al tuo bambino?",
+  "subtitle": "Scegli il sintomo che stai osservando. Ti guideremo passo dopo passo.",
+  "comingSoon": "In arrivo",
+  "startFlow": "Inizia",
+  "symptoms": {
+    "fever": {
+      "label": "Febbre",
+      "description": "Temperatura corporea elevata, brividi, bambino accaldato"
+    },
+    "cough": {
+      "label": "Tosse",
+      "description": "Tosse secca, grassa o persistente"
+    },
+    "vomiting": {
+      "label": "Vomito o diarrea",
+      "description": "Nausea, vomito ripetuto o diarrea"
+    },
+    "throat": {
+      "label": "Mal di gola",
+      "description": "Dolore, difficoltà a deglutire, gola rossa"
+    },
+    "rash": {
+      "label": "Rash cutaneo",
+      "description": "Macchie, eruzioni o arrossamenti sulla pelle"
+    },
+    "earache": {
+      "label": "Dolore all'orecchio",
+      "description": "Dolore o fastidio auricolare, bambino che si tocca l'orecchio"
+    }
+  },
+  "urgentBox": {
+    "title": "Non sei sicuro che sia un'emergenza?",
+    "body": "Se il tuo bambino ha difficoltà respiratorie, convulsioni, o non risponde, non usare Alvea.",
+    "cta": "Vedi i segnali di emergenza",
+    "emergency": "Chiama il 144"
+  },
+  "disclaimer": "Alvea non fornisce diagnosi. Le indicazioni sono orientative e non sostituiscono il parere del pediatra."
+}

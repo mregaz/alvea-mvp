@@ -1,0 +1,39 @@
+{
+  "title": "Come monitorare la febbre a casa",
+  "subtitle": "Quando l'indicazione è di restare a casa, ecco cosa tenere d'occhio.",
+  "sections": {
+    "temperature": {
+      "title": "Temperatura",
+      "body": "Misura la temperatura ogni 4–6 ore, o più spesso se il bambino sembra peggiorare. Non è necessario svegliarlo di notte solo per misurare. Un termometro ascellare o timpanico va bene per uso domestico."
+    },
+    "hydration": {
+      "title": "Idratazione",
+      "body": "Offri liquidi frequentemente: acqua, tisane tiepide, brodo. Nei bambini piccoli continua allattamento al seno o biberon normalmente. Un buon segnale è che il bambino fa pipì almeno ogni 6–8 ore."
+    },
+    "behavior": {
+      "title": "Comportamento generale",
+      "body": "Un bambino con febbre può essere stanco e irritabile — è normale. Preoccupati se non reagisce, è difficile da svegliare, o è inconsolabile anche quando la febbre è sotto controllo."
+    },
+    "whenToAct": {
+      "title": "Quando chiamare il pediatra",
+      "items": {
+        "item1": "La febbre sale oltre 40°C",
+        "item2": "La febbre dura più di 3 giorni",
+        "item3": "Il bambino peggiora invece di migliorare",
+        "item4": "Il bambino beve pochissimo o non fa pipì",
+        "item5": "Compaiono nuovi sintomi come rash, difficoltà respiratorie, collo rigido"
+      }
+    },
+    "emergency": {
+      "title": "Chiama il 144 subito se",
+      "items": {
+        "item1": "Il bambino ha convulsioni",
+        "item2": "Non risponde o è difficilissimo da svegliare",
+        "item3": "Ha difficoltà respiratorie gravi",
+        "item4": "Le labbra o la pelle hanno un colore insolito"
+      }
+    }
+  },
+  "backToResult": "Torna al risultato",
+  "restart": "Ricomincia il percorso"
+}

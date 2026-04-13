@@ -1,0 +1,58 @@
+{
+  "fever": {
+    "green": {
+      "badge": "[STUB] Verde",
+      "title": "[STUB] Al momento puoi monitorare il bambino con attenzione",
+      "body": "[STUB] La febbre può comparire in situazioni comuni. Se il bambino reagisce bene e non ci sono segnali di allarme importanti, può essere utile osservarlo nelle prossime ore e monitorare eventuali cambiamenti.",
+      "observeTitle": "[STUB] Cosa osservare",
+      "observe1": "[STUB] Energia e comportamento",
+      "observe2": "[STUB] Capacità di bere",
+      "observe3": "[STUB] Eventuale peggioramento",
+      "observe4": "[STUB] Durata della febbre",
+      "observe5": "[STUB] Comparsa di nuovi sintomi",
+      "nextStep": "[STUB] Continua a monitorare la situazione e cerca aiuto se il bambino peggiora o se la febbre persiste.",
+      "cta_observe": "[STUB] Vai ai segnali da osservare",
+      "cta_back": "[STUB] Torna ai sintomi",
+      "disclaimer": "[STUB] Questo risultato è orientativo e non sostituisce una valutazione medica."
+    },
+    "yellow": {
+      "badge": "[STUB] Giallo",
+      "title": "[STUB] Può essere utile chiedere consiglio a un professionista",
+      "body": "[STUB] Alcuni elementi indicano che è opportuno confrontarsi con un professionista, soprattutto se il bambino non migliora, peggiora o fatica a bere.",
+      "contactTitle": "[STUB] A chi rivolgersi",
+      "contact1": "[STUB] Pediatra",
+      "contact2": "[STUB] Farmacia",
+      "contact3": "[STUB] Telemedicina",
+      "observeTitle": "[STUB] Continua a osservare",
+      "observe1": "[STUB] Peggioramento generale",
+      "observe2": "[STUB] Difficoltà respiratoria",
+      "observe3": "[STUB] Ridotta reattività",
+      "observe4": "[STUB] Febbre che continua",
+      "observe5": "[STUB] Idratazione ridotta",
+      "nextStep": "[STUB] Valuta di chiedere consiglio a un professionista entro breve.",
+      "cta_signs": "[STUB] Vedi i segnali importanti",
+      "cta_back": "[STUB] Torna ai sintomi",
+      "disclaimer": "[STUB] Questo risultato è orientativo e non sostituisce una valutazione medica."
+    },
+    "red": {
+      "badge": "[STUB] Rosso",
+      "title": "[STUB] È importante cercare assistenza medica rapidamente",
+      "body": "[STUB] Alcuni dei segnali indicati possono richiedere una valutazione medica rapida. Non affidarti solo a informazioni online.",
+      "attentionTitle": "[STUB] Segnali che richiedono attenzione immediata",
+      "attention1": "[STUB] Fa fatica a respirare",
+      "attention2": "[STUB] È molto poco reattivo",
+      "attention3": "[STUB] Ha convulsioni",
+      "attention4": "[STUB] Peggiora rapidamente",
+      "nextStep": "[STUB] Contatta subito un servizio medico urgente o cerca una valutazione medica rapida.",
+      "cta_signs": "[STUB] Vedi i segnali rilevati",
+      "cta_back": "[STUB] Torna ai sintomi",
+      "disclaimer": "[STUB] In caso di sintomi gravi o in rapido peggioramento, cerca assistenza medica immediata."
+    }
+  },
+  "common": {
+    "restart": "[STUB] Ricomincia dall'inizio",
+    "backToSymptoms": "[STUB] Torna ai sintomi",
+    "notDiagnosis": "[STUB] Questo risultato è orientativo e non sostituisce una valutazione medica.",
+    "basedOn": "[STUB] Basato sulle tue risposte"
+  }
+}

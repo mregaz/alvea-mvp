@@ -1,0 +1,20 @@
+{
+  "title": "Privacy",
+  "intro": "Alvea rispetta la tua privacy. Non raccogliamo dati personali.",
+  "noData": {
+    "title": "Nessun dato raccolto",
+    "body": "Alvea non raccoglie né memorizza informazioni personali. Non è richiesta registrazione. Le risposte che inserisci durante il flusso sintomi esistono solo nel tuo browser e vengono cancellate al termine della sessione."
+  },
+  "sessionStorage": {
+    "title": "Dati di sessione",
+    "body": "Per permettere la navigazione avanti e indietro tra le domande, Alvea usa il sessionStorage del tuo browser. Questi dati sono locali al tuo dispositivo e vengono eliminati automaticamente quando chiudi la scheda."
+  },
+  "analytics": {
+    "title": "Analisi anonima",
+    "body": "Potremmo raccogliere dati anonimi e aggregati sull'utilizzo del servizio (ad esempio: quali sintomi vengono cercati più spesso) per migliorare il prodotto. Questi dati non contengono informazioni personali."
+  },
+  "contact": {
+    "title": "Contatti",
+    "body": "Per qualsiasi domanda sulla privacy, scrivi a privacy@alvea.ch"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "navigation": {
+    "back": "Indietro",
+    "continue": "Continua",
+    "start": "Inizia"
+  },
+  "progress": {
+    "label": "Passo {{current}} di {{total}}"
+  },
+  "validation": {
+    "required": "Seleziona una risposta per continuare.",
+    "requiredMulti": "Seleziona almeno una risposta per continuare."
+  },
+  "multiSelect": {
+    "hint": "Puoi selezionare più di una risposta."
+  },
+  "disclaimer": {
+    "reminder": "Alvea non fornisce diagnosi e non sostituisce il pediatra."
+  }
+}

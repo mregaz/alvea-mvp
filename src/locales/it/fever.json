@@ -1,0 +1,93 @@
+{
+  "intro": {
+    "title": "Febbre nel bambino",
+    "subtitle": "Ti facciamo poche domande per aiutarti a capire quali segnali osservare e quale passo fare dopo.",
+    "infoBox": "Alvea offre supporto orientativo per genitori. Non fornisce diagnosi e non sostituisce il pediatra o i servizi di urgenza.",
+    "cta": "Inizia"
+  },
+  "age": {
+    "question": "Quanti anni ha il bambino?",
+    "help": "L'età aiuta a capire meglio il livello di attenzione richiesto.",
+    "opt_under3m": "Meno di 3 mesi",
+    "opt_3to12m": "3–12 mesi",
+    "opt_1to3y": "1–3 anni",
+    "opt_4to7y": "4–7 anni",
+    "opt_8plus": "8 anni o più"
+  },
+  "tempMeasured": {
+    "question": "Hai misurato la temperatura?",
+    "opt_yes": "Sì",
+    "opt_no": "No",
+    "opt_unsure": "Non sono sicuro"
+  },
+  "tempValue": {
+    "question": "Qual è la temperatura più alta misurata?",
+    "help": "Se non sei sicuro, scegli l'opzione più vicina.",
+    "opt_under38": "Meno di 38°C",
+    "opt_38to384": "38–38.4°C",
+    "opt_385to39": "38.5–39°C",
+    "opt_over39": "Oltre 39°C",
+    "opt_unsure": "Non sono sicuro"
+  },
+  "duration": {
+    "question": "Da quanto tempo è presente la febbre?",
+    "opt_today": "Da oggi",
+    "opt_1day": "Da 1 giorno",
+    "opt_2to3days": "Da 2–3 giorni",
+    "opt_over3days": "Da più di 3 giorni",
+    "opt_unsure": "Non sono sicuro"
+  },
+  "condition": {
+    "question": "Come sta il bambino in generale?",
+    "help": "Il comportamento generale è spesso importante quanto la temperatura.",
+    "opt_normal": "Gioca o reagisce quasi normalmente",
+    "opt_tired": "È più stanco del solito ma reagisce",
+    "opt_veryTired": "È molto abbattuto",
+    "opt_unresponsive": "È difficile da svegliare o risponde poco"
+  },
+  "breathing": {
+    "question": "Hai notato difficoltà a respirare?",
+    "opt_no": "No",
+    "opt_slightlyLabored": "Il respiro sembra un po' affannoso",
+    "opt_difficulty": "Sì, fa fatica a respirare",
+    "opt_unsure": "Non sono sicuro",
+    "alert_difficulty": "Questo può richiedere attenzione rapida. Completa il percorso per vedere l'indicazione finale."
+  },
+  "hydration": {
+    "question": "Sta bevendo e facendo pipì normalmente?",
+    "help": "Bere e urinare normalmente può aiutare a capire come sta il bambino.",
+    "opt_yes": "Sì",
+    "opt_less": "Beve meno del solito",
+    "opt_veryLittle": "Beve molto poco o quasi niente",
+    "opt_unsure": "Non sono sicuro"
+  },
+  "associated": {
+    "question": "Ci sono anche questi sintomi?",
+    "help": "Puoi selezionare più di una risposta.",
+    "opt_cough": "Tosse",
+    "opt_vomiting": "Vomito",
+    "opt_diarrhea": "Diarrea",
+    "opt_throat": "Mal di gola",
+    "opt_earache": "Dolore all'orecchio",
+    "opt_rash": "Rash o macchie sulla pelle",
+    "opt_none": "Nessuno di questi",
+    "opt_unsure": "Non sono sicuro"
+  },
+  "warningSigns": {
+    "question": "Hai notato uno di questi segnali?",
+    "help": "Seleziona tutte le risposte che si avvicinano di più alla situazione.",
+    "opt_seizures": "Convulsioni",
+    "opt_stiffNeck": "Collo rigido",
+    "opt_hardToWake": "Difficoltà a svegliarlo",
+    "opt_inconsolable": "Pianto inconsolabile",
+    "opt_worsening": "Peggioramento rapido",
+    "opt_colorChange": "Labbra o pelle con colore insolito",
+    "opt_none": "Nessuno di questi",
+    "opt_unsure": "Non sono sicuro"
+  },
+  "transition": {
+    "title": "Stiamo preparando il tuo risultato",
+    "body": "Consideriamo età, durata della febbre, stato generale e segnali associati per mostrarti un orientamento chiaro.",
+    "cta": "Vedi il risultato"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "fever": {
+    "green": {
+      "badge": "Verde",
+      "title": "Al momento puoi monitorare il bambino con attenzione",
+      "body": "La febbre può comparire in situazioni comuni. Se il bambino reagisce bene e non ci sono segnali di allarme importanti, può essere utile osservarlo nelle prossime ore e monitorare eventuali cambiamenti.",
+      "observeTitle": "Cosa osservare",
+      "observe1": "Energia e comportamento",
+      "observe2": "Capacità di bere",
+      "observe3": "Eventuale peggioramento",
+      "observe4": "Durata della febbre",
+      "observe5": "Comparsa di nuovi sintomi",
+      "nextStep": "Continua a monitorare la situazione e cerca aiuto se il bambino peggiora o se la febbre persiste.",
+      "cta_observe": "Vai ai segnali da osservare",
+      "cta_back": "Torna ai sintomi",
+      "disclaimer": "Questo risultato è orientativo e non sostituisce una valutazione medica."
+    },
+    "yellow": {
+      "badge": "Giallo",
+      "title": "Può essere utile chiedere consiglio a un professionista",
+      "body": "Alcuni elementi indicano che è opportuno confrontarsi con un professionista, soprattutto se il bambino non migliora, peggiora o fatica a bere.",
+      "contactTitle": "A chi rivolgersi",
+      "contact1": "Pediatra",
+      "contact2": "Farmacia",
+      "contact3": "Telemedicina",
+      "observeTitle": "Continua a osservare",
+      "observe1": "Peggioramento generale",
+      "observe2": "Difficoltà respiratoria",
+      "observe3": "Ridotta reattività",
+      "observe4": "Febbre che continua",
+      "observe5": "Idratazione ridotta",
+      "nextStep": "Valuta di chiedere consiglio a un professionista entro breve.",
+      "cta_signs": "Vedi i segnali importanti",
+      "cta_back": "Torna ai sintomi",
+      "disclaimer": "Questo risultato è orientativo e non sostituisce una valutazione medica."
+    },
+    "red": {
+      "badge": "Rosso",
+      "title": "È importante cercare assistenza medica rapidamente",
+      "body": "Alcuni dei segnali indicati possono richiedere una valutazione medica rapida. Non affidarti solo a informazioni online.",
+      "attentionTitle": "Segnali che richiedono attenzione immediata",
+      "attention1": "Fa fatica a respirare",
+      "attention2": "È molto poco reattivo",
+      "attention3": "Ha convulsioni",
+      "attention4": "Peggiora rapidamente",
+      "nextStep": "Contatta subito un servizio medico urgente o cerca una valutazione medica rapida.",
+      "cta_signs": "Vedi i segnali rilevati",
+      "cta_back": "Torna ai sintomi",
+      "disclaimer": "In caso di sintomi gravi o in rapido peggioramento, cerca assistenza medica immediata."
+    }
+  },
+  "common": {
+    "restart": "Ricomincia dall'inizio",
+    "backToSymptoms": "Torna ai sintomi",
+    "notDiagnosis": "Questo risultato è orientativo e non sostituisce una valutazione medica.",
+    "basedOn": "Basato sulle tue risposte"
+  }
+}

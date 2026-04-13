@@ -1,0 +1,93 @@
+{
+  "intro": {
+    "title": "[STUB] Febbre nel bambino",
+    "subtitle": "[STUB] Ti facciamo poche domande per aiutarti a capire quali segnali osservare e quale passo fare dopo.",
+    "infoBox": "[STUB] Alvea offre supporto orientativo per genitori. Non fornisce diagnosi e non sostituisce il pediatra o i servizi di urgenza.",
+    "cta": "[STUB] Inizia"
+  },
+  "age": {
+    "question": "[STUB] Quanti anni ha il bambino?",
+    "help": "[STUB] L'età aiuta a capire meglio il livello di attenzione richiesto.",
+    "opt_under3m": "[STUB] Meno di 3 mesi",
+    "opt_3to12m": "[STUB] 3–12 mesi",
+    "opt_1to3y": "[STUB] 1–3 anni",
+    "opt_4to7y": "[STUB] 4–7 anni",
+    "opt_8plus": "[STUB] 8 anni o più"
+  },
+  "tempMeasured": {
+    "question": "[STUB] Hai misurato la temperatura?",
+    "opt_yes": "[STUB] Sì",
+    "opt_no": "[STUB] No",
+    "opt_unsure": "[STUB] Non sono sicuro"
+  },
+  "tempValue": {
+    "question": "[STUB] Qual è la temperatura più alta misurata?",
+    "help": "[STUB] Se non sei sicuro, scegli l'opzione più vicina.",
+    "opt_under38": "[STUB] Meno di 38°C",
+    "opt_38to384": "[STUB] 38–38.4°C",
+    "opt_385to39": "[STUB] 38.5–39°C",
+    "opt_over39": "[STUB] Oltre 39°C",
+    "opt_unsure": "[STUB] Non sono sicuro"
+  },
+  "duration": {
+    "question": "[STUB] Da quanto tempo è presente la febbre?",
+    "opt_today": "[STUB] Da oggi",
+    "opt_1day": "[STUB] Da 1 giorno",
+    "opt_2to3days": "[STUB] Da 2–3 giorni",
+    "opt_over3days": "[STUB] Da più di 3 giorni",
+    "opt_unsure": "[STUB] Non sono sicuro"
+  },
+  "condition": {
+    "question": "[STUB] Come sta il bambino in generale?",
+    "help": "[STUB] Il comportamento generale è spesso importante quanto la temperatura.",
+    "opt_normal": "[STUB] Gioca o reagisce quasi normalmente",
+    "opt_tired": "[STUB] È più stanco del solito ma reagisce",
+    "opt_veryTired": "[STUB] È molto abbattuto",
+    "opt_unresponsive": "[STUB] È difficile da svegliare o risponde poco"
+  },
+  "breathing": {
+    "question": "[STUB] Hai notato difficoltà a respirare?",
+    "opt_no": "[STUB] No",
+    "opt_slightlyLabored": "[STUB] Il respiro sembra un po' affannoso",
+    "opt_difficulty": "[STUB] Sì, fa fatica a respirare",
+    "opt_unsure": "[STUB] Non sono sicuro",
+    "alert_difficulty": "[STUB] Questo può richiedere attenzione rapida. Completa il percorso per vedere l'indicazione finale."
+  },
+  "hydration": {
+    "question": "[STUB] Sta bevendo e facendo pipì normalmente?",
+    "help": "[STUB] Bere e urinare normalmente può aiutare a capire come sta il bambino.",
+    "opt_yes": "[STUB] Sì",
+    "opt_less": "[STUB] Beve meno del solito",
+    "opt_veryLittle": "[STUB] Beve molto poco o quasi niente",
+    "opt_unsure": "[STUB] Non sono sicuro"
+  },
+  "associated": {
+    "question": "[STUB] Ci sono anche questi sintomi?",
+    "help": "[STUB] Puoi selezionare più di una risposta.",
+    "opt_cough": "[STUB] Tosse",
+    "opt_vomiting": "[STUB] Vomito",
+    "opt_diarrhea": "[STUB] Diarrea",
+    "opt_throat": "[STUB] Mal di gola",
+    "opt_earache": "[STUB] Dolore all'orecchio",
+    "opt_rash": "[STUB] Rash o macchie sulla pelle",
+    "opt_none": "[STUB] Nessuno di questi",
+    "opt_unsure": "[STUB] Non sono sicuro"
+  },
+  "warningSigns": {
+    "question": "[STUB] Hai notato uno di questi segnali?",
+    "help": "[STUB] Seleziona tutte le risposte che si avvicinano di più alla situazione.",
+    "opt_seizures": "[STUB] Convulsioni",
+    "opt_stiffNeck": "[STUB] Collo rigido",
+    "opt_hardToWake": "[STUB] Difficoltà a svegliarlo",
+    "opt_inconsolable": "[STUB] Pianto inconsolabile",
+    "opt_worsening": "[STUB] Peggioramento rapido",
+    "opt_colorChange": "[STUB] Labbra o pelle con colore insolito",
+    "opt_none": "[STUB] Nessuno di questi",
+    "opt_unsure": "[STUB] Non sono sicuro"
+  },
+  "transition": {
+    "title": "[STUB] Stiamo preparando il tuo risultato",
+    "body": "[STUB] Consideriamo età, durata della febbre, stato generale e segnali associati per mostrarti un orientamento chiaro.",
+    "cta": "[STUB] Vedi il risultato"
+  }
+}
